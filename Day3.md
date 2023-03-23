@@ -6,4 +6,4 @@
 ## Observability
 - readiness probes
 - liveness probes
-  
+- logging and monitoring
